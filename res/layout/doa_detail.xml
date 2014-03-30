@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dp" >
+    
+    <TextView
+        android:id="@+id/text_doa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/text_doa"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/title_jumlah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_jumlah"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/text_jumlah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_jumlah" />
+
+    <TextView
+        android:id="@+id/title_waktu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_waktu"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/text_waktu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_waktu" />
+
+    <TextView
+        android:id="@+id/title_keutamaan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_keutamaan"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/text_keutamaan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_keutamaan" />
+
+    <TextView
+        android:id="@+id/title_arti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_arti"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/text_arti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_arti" />
+
+    <TextView
+        android:id="@+id/title_riwayat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_riwayat"
+        android:textStyle="bold" />
+    
+    <TextView
+        android:id="@+id/text_riwayat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_riwayat" />
+
+</LinearLayout>
