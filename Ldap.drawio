@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T01:35:40.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="N6GBPS4F_T0kQ_O2ZRQX" version="14.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-31T01:39:11.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Cq2mKYE4Z6iN-mvBZ0z-" version="14.5.0" type="github" pages="3">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
-    <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="aCpt8ERslSWt_8YGlH3Z-39" value="Data Center Pramuka" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1125" y="50" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aCpt8ERslSWt_8YGlH3Z-40" value="Data Center Sentul" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="418" y="50" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
